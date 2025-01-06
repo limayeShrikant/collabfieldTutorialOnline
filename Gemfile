@@ -42,6 +42,7 @@ gem 'headless'
 gem 'poltergeist'
 gem 'database_cleaner'
 gem 'phantomjs', :require => 'phantomjs/poltergeist'
+gem 'faker'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
