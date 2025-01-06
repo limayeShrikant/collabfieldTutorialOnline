@@ -35,6 +35,12 @@ gem 'jbuilder', '~> 2.5'
 gem 'devise'
 gem 'bootstrap_form'
 
+gem 'rspec-rails'
+gem 'factory_girl_rails'
+gem 'rails-controller-testing'
+gem 'headless'
+gem 'poltergeist'
+gem 'database_cleaner'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
