@@ -41,6 +41,7 @@ gem 'rails-controller-testing'
 gem 'headless'
 gem 'poltergeist'
 gem 'database_cleaner'
+gem 'phantomjs', :require => 'phantomjs/poltergeist'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
