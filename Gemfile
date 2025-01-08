@@ -43,6 +43,7 @@ gem 'poltergeist'
 gem 'database_cleaner'
 gem 'phantomjs', :require => 'phantomjs/poltergeist'
 gem 'faker'
+gem 'will_paginate'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
